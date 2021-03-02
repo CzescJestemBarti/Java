@@ -3,8 +3,8 @@ Jest to repozytorium, w którym znajdziesz projekty wykonane przeze mnie w języ
 
 W folderze 
 <p>
-<strong>NAI</strong> (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.<br>
-<strong>SKJ</strong> (- Sieci komputerowe) jest podstawową implementacją port knocking.
+  <strong>NAI</strong> (- <em>Narzędzia sztucznej inteligencji</em>) znajdują się przykładowe implementacje algorytmów.<br>
+  <strong>SKJ</strong> (- <em>Sieci komputerowe</em>) jest podstawową implementacją port knocking.
 <br>Projekt ten zawiera dwa pakiety
 <br>1.<strong> server </strong>- zawiera plik, który jest tworzony po utworzeniu obiektu
 klasy. Tworzymy również tablice Listenerów (klasa znajdująca się
@@ -17,5 +17,5 @@ zawartosc pliku, bądź disconnect()'uje się, gdy nie dostanie odzewu.
 Na koniec mamy dwa pakiety oraz dwa pliki - jeden bazowy oraz drugi
 utworzony w trakcie wykonywania sie programu (plik, ktory zostal
 wyslany do clienta).<br>
-<strong>UTP</strong> (- Uniwersalne techniki programowania) zawiera projekty, które zawierają ważne techniki programowania w języku Java.
+  <strong>UTP</strong> (-<em> Uniwersalne techniki programowania</em>) zawiera projekty, które zawierają ważne techniki programowania w języku Java.
 </p>
