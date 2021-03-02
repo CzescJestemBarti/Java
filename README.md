@@ -1,6 +1,6 @@
 # Java
 Jest to repozytorium, w którym znajdziesz projekty wykonane przeze mnie w języku Java.<p>
-W folderze:<br><ul>
+W folderze:<br><ol>
   <strong>NAI</strong> (- <em>Narzędzia sztucznej inteligencji</em>) znajdują się przykładowe implementacje algorytmów.<br>
   <strong>SKJ</strong> (- <em>Sieci komputerowe</em>) jest podstawową implementacją port knocking.
 <br>Projekt ten zawiera dwa pakiety
@@ -16,4 +16,4 @@ Na koniec mamy dwa pakiety oraz dwa pliki - jeden bazowy oraz drugi
 utworzony w trakcie wykonywania sie programu (plik, ktory zostal
   wyslany do clienta).</li></ol><br>
   <strong>UTP</strong> (-<em> Uniwersalne techniki programowania</em>) zawiera projekty, które zawierają ważne techniki programowania w języku Java.
-</ul></p>
+</ol></p>
