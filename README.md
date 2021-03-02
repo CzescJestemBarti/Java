@@ -3,7 +3,7 @@ Jest to repozytorium, w którym znajdziesz projekty wykonane przeze mnie w języ
 
 W folderze 
 <p style="margin-left:2em">
-NAI (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.
+NAI (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.<br>
 SKJ (- Sieci komputerowe) jest podstawową implementacją port knocking.
 </p>
                             Projekt ten zawiera dwa pakiety
