@@ -2,8 +2,10 @@
 Jest to repozytorium, w którym znajdziesz projekty wykonane przeze mnie w języku Java.
 
 W folderze 
-  NAI (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.
-  SKJ (- Sieci komputerowe) jest podstawową implementacją port knocking.
+<p style="margin-left:2em">
+NAI (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.
+SKJ (- Sieci komputerowe) jest podstawową implementacją port knocking.
+</p>
                             Projekt ten zawiera dwa pakiety
                             1. server - zawiera plik, który jest tworzony po utworzeniu obiektu
                             klasy. Tworzymy również tablice Listenerów (klasa znajdująca się
