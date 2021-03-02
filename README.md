@@ -2,7 +2,7 @@
 Jest to repozytorium, w którym znajdziesz projekty wykonane przeze mnie w języku Java.
 
 W folderze 
-<p style="margin-left:2em">
+<p>
 <strong>NAI</strong> (- Narzędzia sztucznej inteligencji) znajdują się przykładowe implementacje algorytmów.<br>
 <strong>SKJ</strong> (- Sieci komputerowe) jest podstawową implementacją port knocking.
 <br>Projekt ten zawiera dwa pakiety
